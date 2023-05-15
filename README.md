@@ -1,2 +1,6 @@
 # BM_Mackerel
 I'm not here...
+
+You're not here...
+
+This repository is for educational purposes only. 
